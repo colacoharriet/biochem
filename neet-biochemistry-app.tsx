@@ -1,3 +1,12 @@
+import React, { useState } from 'react';
+import {
+  User, BookOpen, Brain, Target, Clock, TrendingUp, Star, ChevronRight, Play, Pause, RotateCcw,
+  CheckCircle, XCircle, Award
+} from 'lucide-react';
+
+// ... your BiochemistryApp code here ...
+
+export default BiochemistryApp;
 import { User, BookOpen, Brain, Target, Clock, TrendingUp, Star, ChevronRight, Play, Pause, RotateCcw, CheckCircle, XCircle, Award } from 'lucide-react';
 
 // Mock database for biochemistry content
